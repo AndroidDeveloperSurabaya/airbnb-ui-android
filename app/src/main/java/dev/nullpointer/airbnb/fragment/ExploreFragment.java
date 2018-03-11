@@ -16,7 +16,7 @@ import dev.nullpointer.airbnb.adapter.ExploreAdapter;
 public class ExploreFragment extends Fragment {
 
     View view;
-    int[] thumbs = {R.drawable.italy, R.drawable.paris, R.drawable.indonesia, R.drawable.london, R.drawable.india};
+    int[] thumbs = {R.drawable.italia, R.drawable.paris, R.drawable.bali, R.drawable.london, R.drawable.india};
     String[] city = {"Rome", "Paris", "Bali", "London", "New Delhi"};
     String[] country = {"Italy", "France", "Indonesia", "England", "India"};
     ListView lView;
